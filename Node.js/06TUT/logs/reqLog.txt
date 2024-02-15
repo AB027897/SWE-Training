@@ -1,0 +1,4 @@
+20240207	23:38:55	59886455-e10a-40b1-8a4a-171459b20bfd	/new-page.html	GET
+20240207	23:38:55	57c123e3-ea9c-442b-9236-ebed004166fa	/css/style.css	GET
+20240207	23:38:55	ac309c52-4b7d-42de-9a5b-2b0d27f5709d	/img/img1.jpg	GET
+20240207	23:38:55	361cc9dc-11a1-49fe-b2c2-45fd80b736ca	/new-page.html	GET
