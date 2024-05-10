@@ -1,0 +1,2 @@
+20240509	15:45:57	2e883554-df80-4c7d-b590-c0f5c208c9d5	Error: Not allowed by CORS
+20240509	15:46:18	46ec56e9-a6e9-4a9f-9d6d-3b99d1d64d37	Error: Not allowed by CORS
